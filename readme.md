@@ -1,0 +1,1 @@
+After cloning the repository, please run "node tests.js" to actually run all the tests.
